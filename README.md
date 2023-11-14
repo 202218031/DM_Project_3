@@ -27,8 +27,8 @@ Team Name : Data Crew
 # **Data**:
 
 We created three files:
-1.	ICC Rankings: We scraped the ICC rankings of teams participating in world cup from Espncricinfo
-2.	Fixtures: We scarped the entire schedule of ICC world cup from Cricbuzz.
+1.	ICC Rankings: We scraped the ICC rankings of teams participating in world cup from Espncricinfo.
+2.	Fixtures: We scraped the entire schedule of ICC world cup from Cricbuzz.
 3.	ODI results: We collected the data of ODI matches from 2015 to 2023 using Espncricinfo query page.
 
 
@@ -56,4 +56,4 @@ We selected two problem statements:
 
 # **Conclusion**:
 
-By using the Random Forest model , we predicted that New Zealand and South Africa will be playing the final. Based on the outcomes of this model, South Africa has higher chances of winning the World Cup.
+By using the Random Forest model , we predicted that New Zealand and South Africa will be playing the final match. Based on the outcome of our model, South Africa has higher chances of winning the World Cup.
